@@ -8,3 +8,5 @@ GameCo executives are open to hearing any insights you can pull from the data bu
 - Have any games decreased or increased in popularity over time?
 - How have their sales figures varied between geographic regions over time?
 
+# Data
+[GameCo data](https://images.careerfoundry.com/public/courses/intro-to-data/E2/vgsales.xlsx)
